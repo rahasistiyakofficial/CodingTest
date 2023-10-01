@@ -19,7 +19,7 @@ return new class extends Migration
             $table->decimal('fee', 10, 2);
             $table->date('date');
             $table->timestamps();
-    
+
             $table->foreign('user_id')->references('id')->on('users');
         });
     }
