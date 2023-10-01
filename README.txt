@@ -1,6 +1,6 @@
 Hello, 
 I Completed The Task Successfully. To Cheak ,
-1.Clone the Project First
+1.Clone the Project First and Install Composer
 2.Run Migration 
 3.php artisan ser
 http://127.0.0.1:8000   //replace with your url
